@@ -4,9 +4,10 @@ This is a fictional parody site created for technical content. Any resemblance t
 # [Landing page](https://stmedardconstruction.vercel.app/)
 
 ```
-Directory structure: aeronje-saintmedardconstruction
-├── index.html       # deployed to Vercel
-└── README.md
+aeronje/
+└── saintmedardconstruction/
+    ├── index.html       # deployed to Vercel
+    └── README.md
 ```
 # Tech content
 
