@@ -11,4 +11,4 @@ aeronje/
 ```
 # Tech content
 
-You may watch [TC3](https://web.facebook.com/share/v/17EDnDVXgh/) for more context.
+You may watch [TC3](https://web.facebook.com/share/v/17EDnDVXgh/) for more context. ```The video is in Filipino language```
